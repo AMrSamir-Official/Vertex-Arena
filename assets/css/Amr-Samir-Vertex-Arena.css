@@ -685,6 +685,7 @@ Header Style
 
 .header-area.header-sticky .nav li a.active {
   color: #fff;
+      background: #27292a;
 }
 
 @media (max-width: 1200px) {
@@ -784,7 +785,7 @@ Header Style
     line-height: 50px !important;
     padding: 0px !important;
     border: none !important;
-    background: #fff !important;
+    background: #27292a !important;
     color: #1e1e1e !important;
   }
   .header-area .main-nav .nav li a:hover {
